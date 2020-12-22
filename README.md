@@ -1,6 +1,6 @@
 # The analysis of the sale price of the single-family, detached house in two regions in the Greater Toronto Area
 
-This repo contains code, rmd file and pdf for the analysis of the sale price of the detached house. It was created by Linxia Li. The purpose is to create a repo that build statistical model to analyze and predict the sale price.
+This repo contains code, rmd file, pdf and data for the analysis of the sale price of the detached house. It was created by Linxia Li. The purpose is to create a repo that build statistical model to analyze and predict the sale price.
 
 The sections of repo are : Report and Data.
 
